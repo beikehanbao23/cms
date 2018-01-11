@@ -352,8 +352,7 @@ $().ready( function () {
 			alert(data);
 			$('#spinnerTable').WBSpinner().hide();
 		}
-				
-		var urlString = "./wbstatistics?entity=uris&entity=languages&entity=pages&entity=modules&entity=articles&entity=files&entity=globalparams&count=2&index_start=0&"; 
+		var urlString = "./wbstatistics?entity=uris&entity=languages&entity=pages&entity=modules&entity=articles&entity=files&entity=globalparams&count=2&index_start=0&";
 		$('#wbbodycontent').wbCommunicationManager().ajax ( { url: urlString,
 														 httpOperation:"GET", 
 														 payloadData:"",

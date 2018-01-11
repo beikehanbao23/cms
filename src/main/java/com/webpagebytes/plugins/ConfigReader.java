@@ -1,4 +1,4 @@
-package com.webpagebytes.plugins.plugins;
+package com.webpagebytes.plugins;
 
 import java.io.FileInputStream;
 import java.io.IOException;

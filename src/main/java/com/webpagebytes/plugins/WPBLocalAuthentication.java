@@ -14,7 +14,7 @@
  * limitations under the License.
 */
 
-package com.webpagebytes.plugins.plugins;
+package com.webpagebytes.plugins;
 
 import java.io.File;
 import java.util.Map;

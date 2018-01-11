@@ -7,9 +7,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7dc4816-4f87-4334-8d64-50593965b199" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBPublicContentServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBPublicContentServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/ConfigReader.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/ConfigReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBAuthLocalListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBAuthLocalListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBDefaultAuthenticationResult.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBDefaultAuthenticationResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalArticlesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalArticlesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLoginPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLoginPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLogout.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLogout.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthProfilePage.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthProfilePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthentication.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthentication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalCacheFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalCacheFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFileStorage.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFileStorage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFilesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFilesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalMessagesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalMessagesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPageModulesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPageModulesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPagesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPagesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalParametersCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalParametersCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalProjectCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalProjectCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalUrisCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalUrisCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheArticlesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheArticlesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFilesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFilesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheMessagesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheMessagesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePageModulesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePageModulesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePagesCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePagesCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheParametersCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheParametersCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheProjectCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheProjectCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheSyncRunnable.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheSyncRunnable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheUrisCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheUrisCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLAdminDataStorage.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLAdminDataStorage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLDataStoreDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLDataStoreDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/admin/app-js/wbstats.js" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/admin/app-js/wbstats.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/admin/index.html" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/admin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,67 +52,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WPBPublicContentServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBPublicContentServlet.java">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1767">
-              <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-              <folding>
-                <element signature="e#4975#4976#0" expanded="true" />
-                <element signature="e#5042#5043#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="118" column="26" lean-forward="false" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+            <state relative-caret-position="97">
+              <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="URLMatcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/URLMatcher.java">
+      <file leaf-file-name="WPBAdminServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBAdminServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <element signature="e#7777#7778#0" expanded="true" />
+                <element signature="e#7805#7806#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AjaxRequestProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/AjaxRequestProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="174" column="16" lean-forward="false" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticResourceMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/StaticResourceMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-164">
+              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/ResourceReader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreeMarkerModuleDirective.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/template/FreeMarkerModuleDirective.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding>
-                <element signature="e#0#11922#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultWPBCacheFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/DefaultWPBCacheFactory.java">
+      <file leaf-file-name="FreeMarkerDirectiveBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/template/FreeMarkerDirectiveBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="-98">
+              <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CmsConfigurationFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/CmsConfigurationFactory.java">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/admin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WPBAdminDataStorageFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/WPBAdminDataStorageFactory.java">
+      <file leaf-file-name="wbstats.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/artifacts/webpagebytes_cms_war_exploded/WEB-INF/classes/META-INF/admin/app-js/wbstats.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="318">
+              <caret line="357" column="40" lean-forward="false" selection-start-line="357" selection-start-column="40" selection-end-line="357" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/artifacts/webpagebytes_cms_war_exploded/WEB-INF/classes/META-INF/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-722">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -97,7 +166,29 @@
       <find>saxParser</find>
       <find>h</find>
       <find>getUrlMatcher</find>
+      <find>/$</find>
+      <find>com.webpagebytes.plugins.plugins;</find>
+      <find>REQUEST_KEY</find>
+      <find>ConfigReader</find>
+      <find>listener</find>
+      <find>wbstatistics</find>
+      <find>wbstats</find>
+      <find>wbstat</find>
+      <find>wbstatistics?entity</find>
+      <find>wbst</find>
+      <find>WPBAdminServlet</find>
+      <find>timestamp</find>
+      <find>resource</find>
+      <find>Freem</find>
+      <find>ADMIN_RESOURCE_FOLDER</find>
+      <find>Page modules</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/admin/$</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\GitHub\cms</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,6 +204,38 @@
         <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBPublicContentServlet.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/plugins/WPBSQLDataStoreDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/admin/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalCacheFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthentication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBAuthLocalListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBDefaultAuthenticationResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalArticlesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthProfilePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFilesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFileStorage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalMessagesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPagesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalProjectCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalUrisCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheArticlesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFilesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheMessagesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePageModulesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePagesCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheParametersCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheProjectCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheSyncRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheUrisCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLAdminDataStorage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLDataStoreDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/ConfigReader.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/admin/app-js/wbstats.js" />
+        <option value="$PROJECT_DIR$/out/artifacts/webpagebytes_cms_war_exploded/WEB-INF/classes/META-INF/admin/index.html" />
+        <option value="$PROJECT_DIR$/out/artifacts/webpagebytes_cms_war_exploded/WEB-INF/classes/META-INF/admin/app-js/wbstats.js" />
       </list>
     </option>
   </component>
@@ -165,6 +288,95 @@
             <path>
               <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
               <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="webpagebytes_cms_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="app-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -193,9 +405,39 @@
               <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webpagebytes" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
               <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="app-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpagebytes-cms" type="b2602c69:ProjectViewProjectNode" />
@@ -399,46 +641,46 @@
       <option name="presentableId" value="Default" />
       <updated>1515416142537</updated>
       <workItem from="1515416147846" duration="4091000" />
-      <workItem from="1515676779711" duration="669000" />
+      <workItem from="1515676779711" duration="8754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4760000" />
+    <option name="totallyTimeSpent" value="12845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44789082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.301875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30148885" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6650124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27791563" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,82 +694,455 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/CmsConfigurationFactory.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/CmsConfigurationFactory.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/template/FreeMarkerDirectiveBase.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBAdminServlet.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBAdminServlet.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBAdminServlet.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBAdminServlet.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="29" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
-        <watch expression="cacheInstances.getUriCache().getFingerPrint()" />
-        <watch expression="cacheInstances.getUriCache() == null" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBPublicContentServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-          <folding>
-            <element signature="e#4975#4976#0" expanded="true" />
-            <element signature="e#5042#5043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2242">
-          <caret line="118" column="26" lean-forward="false" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+        <state relative-caret-position="106">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/URLMatcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthLogout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthProfilePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalCacheFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFilesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalFileStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalMessagesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPageModulesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalPagesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
-            <element signature="e#0#11922#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalParametersCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalProjectCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalUrisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFilesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheMessagesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePageModulesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCachePagesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheParametersCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheProjectCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheSyncRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheUrisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLAdminDataStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBSQLDataStoreDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2038">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBAuthLocalListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/ConfigReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBMemCacheArticlesCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/ModelBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="69" column="47" lean-forward="false" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
+          <folding>
+            <element signature="e#8583#8599#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/WPBLocalAuthentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#3294#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/admin/app-js/wbstats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6669">
+          <caret line="354" column="36" lean-forward="true" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/CmsConfigurationFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state relative-caret-position="179">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/WPBAdminDataStorageFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBCmsContextListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="29">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/DefaultWPBCacheFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/BaseRequestProcessorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#785#786#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#890#891#0" expanded="false" />
+            <element signature="e#930#931#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/WPBServletUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/webpagebytes/cms/engine/TestAdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/ResourceRequestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="144" column="52" lean-forward="true" selection-start-line="144" selection-start-column="52" selection-end-line="144" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/config/dbscripts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1480">
+          <caret line="78" column="24" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/admin/webpageedit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1634">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/template/WPBTemplateEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/WPBCacheInstances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/AjaxRequestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="174" column="16" lean-forward="false" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/StaticResourceMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/ResourceReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/template/FreeMarkerModuleDirective.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBAdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="e#7777#7778#0" expanded="true" />
+            <element signature="e#7805#7806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/template/FreeMarkerDirectiveBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -535,128 +1150,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBRefreshableCache.java">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/webpagebytes_cms_war_exploded/WEB-INF/classes/META-INF/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="-722">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBUrisCache.java">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/webpagebytes_cms_war_exploded/WEB-INF/classes/META-INF/admin/app-js/wbstats.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBProjectCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBArticlesCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="29" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/WPBCacheInstances.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="86" column="16" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/CmsConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/XMLConfigContentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-478">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/XMLConfigReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBCacheFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/WPBAdminDataStorageFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/plugins/WPBLocalUrisCache.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/plugins/WPBLocalCacheFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/URLMatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11922#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/plugins/WPBSQLAdminDataStorage.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/plugins/plugins/WPBSQLDataStoreDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/utility/CmsConfigurationFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/WPBPublicContentServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-          <folding>
-            <element signature="e#4975#4976#0" expanded="true" />
-            <element signature="e#5042#5043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/webpagebytes/cms/engine/DefaultWPBCacheFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="118" column="26" lean-forward="false" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+        <state relative-caret-position="318">
+          <caret line="357" column="40" lean-forward="false" selection-start-line="357" selection-start-column="40" selection-end-line="357" selection-end-column="40" />
           <folding />
         </state>
       </provider>
