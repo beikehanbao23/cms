@@ -24,4 +24,10 @@
         <servlet-name>public</servlet-name>
         <url-pattern>/*</url-pattern>
     </servlet-mapping>
+    <listener>
+        <listener-class>com.webpagebytes.cms.WPBCmsContextListener</listener-class>
+    </listener>
+    <listener>
+        <listener-class>com.webpagebytes.plugins.WPBAuthLocalListener</listener-class>
+    </listener>
 </web-app>
