@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpbconfiguration>
+	<wpbcache>
+		<factoryclass>com.webpagebytes.plugins.WPBLocalCacheFactory</factoryclass>
+        <params>
+        </params>
+	</wpbcache>
+	<wpbadmindatastorage>
+		<!-- H2 DB Config -->
+		<!--<factoryclass>com.webpagebytes.plugins.WPBSQLAdminDataStorage</factoryclass>
+		<params>
+			<param name="driverClass" value="org.h2.Driver" />
+			<param name="connectionUrl" value="jdbc:h2:E:/webpagebytes/demo-cms" />
+		</params>-->
+
+		<!-- Mysql Config -->
+		<factoryclass>com.webpagebytes.plugins.WPBSQLAdminDataStorage</factoryclass>
+        <params>
+                <param name="driverClass" value="com.mysql.jdbc.Driver" />
+                <param name="connectionUrl" value="jdbc:mysql://127.0.0.1:3306/cms" />
+                <param name="userName" value="root" />
+                <param name="password" value="123456" />
+                <param name="testOnBorrow" value="true" />
+                <param name="validationQuery" value="SELECT 1" />
+        </params>
+
+        <!-- postgres Config -->
+		<!-- <factoryclass>com.webpagebytes.plugins.WPBSQLAdminDataStorage</factoryclass>
+        <params>
+                <param name="driverClass" value="org.postgresql.Driver" />
+                <param name="connectionUrl" value="jdbc:postgresql://127.0.0.1:3306/cms" />
+                <param name="userName" value="root" />
+                <param name="password" value="123456" />
+                <param name="testOnBorrow" value="true" />
+                <param name="validationQuery" value="SELECT 1" />
+        </params> -->
+	</wpbadmindatastorage>
+	<wpbfilestorage>
+		<factoryclass>com.webpagebytes.plugins.WPBLocalFileStorage</factoryclass>
+        <params>
+			<param name="dataDirectory" value="E:/webpagebytes/filestorage" />
+			<param name="basePublicUrlPath" value="http://localhost:8080/admin" />        
+        </params>
+	</wpbfilestorage>
+
+    <wpbauthentication>
+        <factoryclass>com.webpagebytes.plugins.WPBLocalAuthentication</factoryclass>
+    </wpbauthentication> 
+
+	<wpbmodel>
+		<params>
+			<param name="baseModelUrlPath" value="http://localhost:8080/admin" />
+		</params>
+	</wpbmodel>
+    <wpbglobals>
+        <params>
+        </params>
+    </wpbglobals>
+</wpbconfiguration>
