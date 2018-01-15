@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="" docBase="E:\GitHub\osmtopdownload\target\osmtopdownload">
+	<Parameter 
+        name="wpbConfigurationPath" 
+        value="E:\webpagebytes\wpbConfiguration.xml" override="false"
+    />
+
+    <Parameter 
+        name="wpbAuthLocalConfigFile" 
+        value="E:\webpagebytes\localAuthContextConfig.properties" override="false"
+    />
+
+    
+</Context>    
+
